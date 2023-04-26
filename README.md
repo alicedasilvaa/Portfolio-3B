@@ -26,3 +26,10 @@ Nesssa atividade tivemos que criar um app que realizava calculos com horas.
 * Testes de sistemas : Especificação de casos de testes
 
 Nessa atividade a gente teve que elabocar uma especificação de casos de testes para o app que tinhamos criado.
+
+[CLIQUE AQUI](Programação-de-sistema/Calculadora-de-Horas.pdf)
+[CLIQUE AQUI](Moldelagem-de-sistemas/ifood.png)
+[CLIQUE AQUI](Testes-de-sistema/Especificaçãoattv.pdf)
+[CLIQUE AQUI PARA O CODIGO](Banco-de-dados/SQLiteatvdd.sql)
+[CLIQUE AQUI PARA A IMAGEM](Banco-de-dados/trabalho.png)
+
