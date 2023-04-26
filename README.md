@@ -15,21 +15,27 @@ Irá ter também :
 
 Nessa atividade a gente teve que desenvolver um sistema como o do ifood
 
+[CLIQUE AQUI](Moldelagem-de-sistemas/ifood.png)
+<br>
+
 * Banco de dados : Atividade serial
 
 Para a solução projetada na atividade avaliativa de modelagem de sistemas, tivemos que fazer o diagrama E-R referente ao banco de dados necessário e o código SQL. E usamos pelo menos um atributo do tipo serial.
+
+[CLIQUE AQUI PARA O CODIGO](Banco-de-dados/SQLiteatvdd.sql)
+<br>
+[CLIQUE AQUI PARA A IMAGEM](Banco-de-dados/trabalho.png)
 
 * Programação de aplicativo : Calculadora de horas 
 
 Nesssa atividade tivemos que criar um app que realizava calculos com horas.
 
+[CLIQUE AQUI](Programação-de-sistema/Calculadora-de-Horas.pdf)
+<br>
+
 * Testes de sistemas : Especificação de casos de testes
 
 Nessa atividade a gente teve que elabocar uma especificação de casos de testes para o app que tinhamos criado.
 
-[CLIQUE AQUI](Programação-de-sistema/Calculadora-de-Horas.pdf)
-[CLIQUE AQUI](Moldelagem-de-sistemas/ifood.png)
 [CLIQUE AQUI](Testes-de-sistema/Especificaçãoattv.pdf)
-[CLIQUE AQUI PARA O CODIGO](Banco-de-dados/SQLiteatvdd.sql)
-[CLIQUE AQUI PARA A IMAGEM](Banco-de-dados/trabalho.png)
-
+<br>
