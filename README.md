@@ -26,6 +26,9 @@ Para a solução projetada na atividade avaliativa de modelagem de sistemas, tiv
 <br>
 [CLIQUE AQUI PARA A IMAGEM](Banco-de-dados/trabalho.png)
 
+[CLIQUE AQUI PARA O VER A AUTORIA](Banco-de-dados/Autoria-Ana.pdf)
+<br>
+
 * Programação de aplicativo : Calculadora de horas 
 
 Nesssa atividade tivemos que criar um app que realizava calculos com horas.
