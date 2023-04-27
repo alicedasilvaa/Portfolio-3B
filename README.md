@@ -33,9 +33,15 @@ Nesssa atividade tivemos que criar um app que realizava calculos com horas.
 [CLIQUE AQUI](Programação-de-sistema/Calculadora-de-Horas.pdf)
 <br>
 
+[CLIQUE AQUI PARA VER A AUTORIA](Programação-de-sistema/Autoria-Jackson.pdf)
+<br>
+
 * Testes de sistemas : Especificação de casos de testes
 
 Nessa atividade a gente teve que elabocar uma especificação de casos de testes para o app que tinhamos criado.
 
 [CLIQUE AQUI](Testes-de-sistema/Especificaçãoattv.pdf)
+<br>
+
+[CLIQUE AQUI PARA VER A AUTORIA](Programação-de-sistema/Autoria-Jackson.pdf)
 <br>
