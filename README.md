@@ -10,6 +10,7 @@ Irá ter também :
 * Validação do Portfólio:
 * Feedback e orientações
 * Autoavaliação 
+<br>
 
 * Moldelagem de sistemas : Diagrama de atividades
 
