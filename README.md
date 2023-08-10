@@ -57,6 +57,8 @@ Nessa atividade a gente teve que elabocar uma especificação de casos de testes
 Nessa atividade tivemos que criar dois códigos com as instruções da professora Ana.
 
  [CLIQUE AQUI ATIVIDADE SELECT](Banco-de-dados/Atividade_select)
+ <br>
+  [CLIQUE AQUI PARA AUTORIA DA ANA](Banco-de-dados/Banco_de_Dados_Select.pdf)
 
 * Desenvolvimento de Sistema:
 
