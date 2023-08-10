@@ -71,6 +71,8 @@ Nessa atividade tivemos que criar dois códigos com as instruções da professor
   Nessa aula o professor Danilo nos passou uma atividade com 10 questões e cada uma tinha que criar uma função com as instruções que ele passou.
   
  [CLIQUE AQUI LÓGICA COM JAVASCRIPT](Programação_de_Aplicativo/lógica_com_javascript)
+ <BR>
+ [CLIQUE AQUI PARA AUTORIA DO DANILO](Programação_de_Aplicativo/JavaScript.pdf)
 
 * Teste de Sistemas:
 
