@@ -50,25 +50,35 @@ Nessa atividade a gente teve que elabocar uma especificação de casos de testes
 [CLIQUE AQUI PARA VER A AUTORIA](Programação-de-sistema/Autoria-Jackson.pdf)
 <br>
 
-Atividade do 2° Trimestre
+##Atividade do 2° Trimestre
 
 * Banco de Dados :
-  
+
+Nessa atividade tivemos que criar dois códigos com as instruções da professora Ana.
+
  [CLIQUE AQUI ATIVIDADE SELECT](Banco-de-dados/Atividade_select)
 
 * Desenvolvimento de Sistema:
+
+  A turma tinha que criar um código com a função que a pessoa possa passar o nome de alguém e saber o telefone dela.
   
  [CLIQUE AQUI LISTA TELEFONICA](Desenvolvimento_de_Sistemas/lista_telefonica)
 
 * Programação de Aplicativo:
+
+  Nessa aula o professor Danilo nos passou uma atividade com 10 questões e cada uma tinha que criar uma função com as instruções que ele passou.
   
  [CLIQUE AQUI LÓGICA COM JAVASCRIPT](Programação_de_Aplicativo/lógica_com_javascript)
 
 * Teste de Sistemas:
+
+  Essa atividade tivemos que fazer em dupla, o professor danilo passou os assuntos no quadro, e cada dupla tinha que escolher seu tema, eu e a Stefany escolhemos o Teste Funcional e fizemos um resumo sobre ele.
   
  [CLIQUE AQUI TESTE FUNCIONAL](Testes-de-sistema)
 
 * Modelagem de Sistemas:
+
+Nesse trabalho, eu, Lucas e Stefany fizemos juntos, e resolvemos falar sobre a violencia sexual, que foi um tema que achamos importante de ser abordado, então resolvemos fazer um aplicativo que possa ajudar todos que passam por isso, e para deixar o trabalho melhor, fizemos um slide falando um pouco sobre esse assunto.
 
 [CLIQUE AQUI SAFESPACE E FIGMA](Moldelagem-de-sistemas)
 
