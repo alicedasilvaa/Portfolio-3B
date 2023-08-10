@@ -1,0 +1,18 @@
+function obterTelefone(nome) {
+     const agenda = {
+     'Alice': '9986789009',
+     'Felipe': '984484481',
+     'Rodrigo': '984567123',
+     'Silvana': '999269812', 
+     };
+
+     if (nome in agenda) {
+     return `Nome: ${nome}, Telefone: ${agenda[nome]}`;
+    } else {
+    return 'Contato não encontrado';
+    }
+    }
+    
+    const nome = 'Felipe';
+    const telefone = obterTelefone(nome);
+    console.log(telefone);
