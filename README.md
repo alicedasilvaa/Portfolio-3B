@@ -70,6 +70,6 @@ Atividade do 2° Trimestre
 
 * Modelagem de Sistemas:
 
-[CLIQUE AQUI SAFESPACE E FIGMA](Moldelagem-de-sistemas/SafeSpace.pdf)
+[CLIQUE AQUI SAFESPACE E FIGMA](Moldelagem-de-sistemas)
 
   
