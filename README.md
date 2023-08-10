@@ -1,5 +1,5 @@
 # Portfolio-3B
-Oi meu nome é Alice da Silva, tenho 17 anos, estudo no Senai e estou cursando o ensino médio com o curso técnico de desenvolvimento de sistemas.
+Oi meu nome é Alice da Silva, tenho 18 anos, estudo no Senai e estou cursando o ensino médio com o curso técnico de desenvolvimento de sistemas.
 
 No meu portfólio vai ter minhas atividades mais importantes do trimestre e suas autorias.
 Irá ter também :
@@ -49,3 +49,15 @@ Nessa atividade a gente teve que elabocar uma especificação de casos de testes
 
 [CLIQUE AQUI PARA VER A AUTORIA](Programação-de-sistema/Autoria-Jackson.pdf)
 <br>
+
+Atividade do 2° Trimestre
+
+* Banco de Dados :
+
+* Desenvolvimento de Sistema:
+
+* Programação de Aplicativo:
+
+* Teste de Sistemas:
+
+  
