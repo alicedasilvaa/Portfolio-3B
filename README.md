@@ -53,11 +53,23 @@ Nessa atividade a gente teve que elabocar uma especificação de casos de testes
 Atividade do 2° Trimestre
 
 * Banco de Dados :
+  
+ [CLIQUE AQUI](Banco-de-dados/Atividade_select)
 
 * Desenvolvimento de Sistema:
+  
+ [CLIQUE AQUI](Desenvolvimento_de_Sistemas/lista_telefonica)
 
 * Programação de Aplicativo:
+  
+ [CLIQUE AQUI](Programação_de_Aplicativo/lógica_com_javascript)
 
 * Teste de Sistemas:
+  
+ [CLIQUE AQUI](Testes-de-sistema/Teste Funcional.pdf)
+
+* Modelagem de Sistemas:
+
+  [CLIQUE AQUI](Moldelagem-de-sistemas/SafeSpace.pdf)
 
   
