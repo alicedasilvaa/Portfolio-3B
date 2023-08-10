@@ -1,1 +1,30 @@
+CREATE TABLE alunos (
+  id INT,
+  nome VARCHAR(100),
+  curso VARCHAR(100)
+);
 
+CREATE TABLE notas (
+  id INT,
+  aluno_id INT,
+  nota DECIMAL(4, 2)
+);
+INSERT INTO alunos (id, nome, curso)
+VALUES
+  (1, 'Felipe', 'Fisioterapia'),
+  (2, 'Camile', 'Direito'),
+  (3, 'Alice', 'Odontologia');
+
+INSERT INTO notas (id, aluno_id, nota)
+VALUES
+  (1, 1, 8.5),
+  (2, 1, 9.0),
+  (3, 2, 6.0),
+  (4, 2, 7.5),
+  (5, 3, 9.7),
+  (6, 3, 10.0);
+SELECT alunos.nome, alunos.curso, AVG(notas.nota) AS media_notas
+FROM alunos
+JOIN notas ON alunos.id = notas.aluno_id
+GROUP BY alunos.id, alunos.nome, alunos.curso
+ORDER BY media_notas DESC;
