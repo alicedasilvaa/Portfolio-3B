@@ -1,1 +1,28 @@
+CREATE TABLE clientes (
+  id INT,
+  nome VARCHAR(100),
+  email VARCHAR(100)
+);
 
+CREATE TABLE pedidos (
+  id INT,
+  cliente_id INT,
+  valor DECIMAL(10, 2)
+);
+INSERT INTO clientes (id, nome, email)
+VALUES
+  (1, 'Rodrigo', 'rodrigorsmotos2012@gmail.com'),
+  (2, 'Silvana', 'silvanapetri83@gmail.com');
+
+INSERT INTO pedidos (id, cliente_id, valor)
+VALUES
+  (1, 1, 20.00),
+  (2, 1, 150.00),
+  (3, 2, 40.00),
+  (4, 2, 55.00);
+
+SELECT clientes.nome, SUM(pedidos.valor) AS valor_total
+FROM clientes
+JOIN pedidos ON clientes.id = pedidos.cliente_id
+GROUP BY clientes.id, clientes.nome
+ORDER BY valor_total DESC;
