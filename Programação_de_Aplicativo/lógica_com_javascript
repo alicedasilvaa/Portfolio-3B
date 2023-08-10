@@ -1,0 +1,205 @@
+* Função 1:
+function verificarMaiorOuIgual(numero1, numero2) {
+    if (numero1 > numero2) {
+        return "O primeiro numero é maior que o segundo.";
+    } else if (numero1 < numero2){ 
+        return "O primeiro numero é menor que o segundo.";
+    } else{ numero1 = numero2 
+        return "O primeiro numero é igual ao segundo.";
+    }
+}
+
+console.log(verificarMaiorOuIgual(5,3)); 
+console.log(verificarMaiorOuIgual(2,8)); 
+console.log(verificarMaiorOuIgual(9,9)); 
+
+*Função 2:
+function calcularQuantidadeDeDias (Idade){
+    if (Idade < 0){
+        return "Idade inválida. Digite um valor não negativo.";
+    } else{
+        var quantidadeDias = Idade * 365;
+        return "Quantidade de dias correspondente com a idade é:" + quantidadeDias + "dias.";
+        }
+} 
+
+console.log(calcularQuantidadeDeDias(45));
+console.log(calcularQuantidadeDeDias(94));
+console.log(calcularQuantidadeDeDias(-34));
+
+*Função 3:
+function obterNomeMes(numero) {
+    switch (numero) {
+      case 1:
+        return "Janeiro";
+      case 2:
+        return "Fevereiro";
+      case 3:
+        return "Março";
+      case 4:
+        return "Abril";
+      case 5:
+        return "Maio";
+      case 6:
+        return "Junho";
+      case 7:
+        return "Julho";
+      case 8:
+        return "Agosto";
+      case 9:
+        return "Setembro";
+      case 10:
+        return "Outubro";
+      case 11:
+        return "Novembro";
+      case 12:
+        return "Dezembro";
+    }
+  }
+  
+  console.log(obterNomeMes(7)); 
+
+*Função 4:
+function inverso(valor) {
+    if (typeof valor === 'boolean') {
+      return !valor;
+    } else if (typeof valor === 'number') {
+      return -valor;
+    } else {
+      return `Booleano ou número esperados, mas o parâmetro é do tipo ${typeof valor}`;
+    }
+  }
+  console.log(inverso(true));   
+  console.log(inverso(67));     
+  console.log(inverso(9.44));   
+  console.log(inverso("teste"));  
+
+*Função 5:
+function multiplicacaoSemOperador(a, b) {
+    
+    if (a === 0 || b === 0) {
+      return 0;
+    }
+  
+    if (a === 1) {
+      return b;
+    }
+    if (b === 1) {
+      return a;
+    }
+  
+    if (a > b) {
+      return a + multiplicacaoSemOperador(a, b - 1);
+    } else {
+      return b + multiplicacaoSemOperador(a - 1, b);
+    }
+  }
+
+console.log(multiplicacaoSemOperador(6, 9));  
+console.log(multiplicacaoSemOperador(3, 14)); 
+console.log(multiplicacaoSemOperador(8, 7));  
+
+*Função 6:
+function repetir(elemento, quantidade) {
+
+    if (typeof quantidade !== 'number' || quantidade < 0 || !Number.isInteger(quantidade)) {
+      return "A quantidade deve ser um número inteiro não negativo.";
+    }
+  
+    var arrayResultado = [];
+  
+    for (var i = 0; i < quantidade; i++) {
+      arrayResultado.push(elemento);
+    }
+  
+    return arrayResultado;
+  }
+
+console.log(repetir("teste", 8)); 
+console.log(repetir(5, 9)); 
+console.log(repetir("abc", 0)); 
+console.log(repetir(2, -9)); 
+console.log(repetir(true, 8)); 
+
+*Função 7:
+function filtro(array) {
+    var numeros = [];
+  
+    for (var i = 0; i < array.length; i++) {
+      if (typeof array[i] === 'number') {
+        numeros.push(array[i]);
+      }
+    }
+  
+    return numeros;
+  }
+  console.log(filtro(["Js", 2, "hoje", 4, 5, 7, "teste"])); 
+  console.log(filtro(["teste", "tentativa"])); 
+  console.log(filtro([5, "seis", 7, "oito", 9])); 
+  console.log(filtro([30, 40, "cinquenta", 60, 70])); 
+
+*Função 8:
+function somaArray(array) {
+    var soma = 0;
+  
+    for (var i = 0; i < array.length; i++) {
+      soma += array[i];
+    }
+  
+    return soma;
+  }
+  console.log(somaArray([1, 2, 3, 4, 5])); 
+  console.log(somaArray([6, -8, 9, 3])); 
+  console.log(somaArray([])); 
+  console.log(somaArray([300])); 
+
+*Função 9:
+function segundoMaiorNumero(array) {
+    
+    if (array.length < 2) {
+      return "O array precisa ter pelo menos dois números.";
+    }
+  
+    var maior = Math.max.apply(null, array);
+  
+    var arraySemMaior = array.filter(function(numero) {
+      return numero !== maior;
+    });
+  
+    var segundoMaior = Math.max.apply(null, arraySemMaior);
+  
+    return segundoMaior;
+  }
+  console.log(segundoMaiorNumero([1, 2, 3, 4, 5])); 
+  console.log(segundoMaiorNumero([3, 8, 10, 5])); 
+  console.log(segundoMaiorNumero([100, 200, 300, 400])); 
+  console.log(segundoMaiorNumero([98])); 
+
+*Função 10:
+function melhoresAlunos(estudantes) {
+    var melhorAluno = null;
+    var melhorMedia = -Infinity;
+  
+    for (var aluno in estudantes) {
+      var notas = estudantes[aluno];
+      var somaNotas = notas.reduce(function(acumulador, nota) {
+        return acumulador + nota;
+      }, 0);
+  
+      var media = somaNotas / notas.length;
+  
+      if (media > melhorMedia) {
+        melhorAluno = aluno;
+        melhorMedia = media;
+      }
+    }
+  
+    return { nome: melhorAluno, media: melhorMedia };
+  }
+  var notasEstudantes = {
+    Alice: [6, 5.2, 9.9, 3],
+    Felipe: [10, 8.6, 4.7, 8],
+    Edu: [0.4, 3.7, 7.6, 9]
+  };
+  
+  console.log(melhoresAlunos(notasEstudantes));
