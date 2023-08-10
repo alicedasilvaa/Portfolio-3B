@@ -54,22 +54,22 @@ Atividade do 2° Trimestre
 
 * Banco de Dados :
   
- [CLIQUE AQUI](Banco-de-dados/Atividade_select)
+ [CLIQUE AQUI ATIVIDADE SELECT](Banco-de-dados/Atividade_select)
 
 * Desenvolvimento de Sistema:
   
- [CLIQUE AQUI](Desenvolvimento_de_Sistemas/lista_telefonica)
+ [CLIQUE AQUI LISTA TELEFONICA](Desenvolvimento_de_Sistemas/lista_telefonica)
 
 * Programação de Aplicativo:
   
- [CLIQUE AQUI](Programação_de_Aplicativo/lógica_com_javascript)
+ [CLIQUE AQUI LÓGICA COM JAVASCRIPT](Programação_de_Aplicativo/lógica_com_javascript)
 
 * Teste de Sistemas:
   
- [CLIQUE AQUI](Testes-de-sistema/Teste Funcional.pdf)
+ [CLIQUE AQUI TESTE FUNCIONAL](Testes-de-sistema)
 
 * Modelagem de Sistemas:
 
-  [CLIQUE AQUI](Moldelagem-de-sistemas/SafeSpace.pdf)
+[CLIQUE AQUI SAFESPACE E FIGMA](Moldelagem-de-sistemas/SafeSpace.pdf)
 
   
