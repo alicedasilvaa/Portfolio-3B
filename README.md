@@ -93,10 +93,12 @@ Nesse trabalho, eu, Lucas e Stefany fizemos juntos, e resolvemos falar sobre a v
 * Desenvolvimento de Sistema:
 
 Nesse trabalho a Ana e o Danilo misturaram as turmas e fizeram vários grupos, e cada grupo teve que criar o que cada cliente passava para eles, e no fim esse cliente iria aprovar o trabalho.
+[CLIQUE AQUI PARA VER O DOCUMENTO](_Cargo Finder_ Documentação.pdf)
 
 * Programação de Aplicativo:
 
 A gente teve que criar um aplicativo com 5 telas e que seja possivel navegar entre elas. (As telas que eu criei não consegui adicionar no github, so consegui adicionar um codigo aqui e entreguei o mesmo codigo no class)
+[CLIQUE AQUI para ver o codigoL]()
 
 
   
