@@ -94,7 +94,7 @@ Nesse trabalho, eu, Lucas e Stefany fizemos juntos, e resolvemos falar sobre a v
 
 Nesse trabalho a Ana e o Danilo misturaram as turmas e fizeram vários grupos, e cada grupo teve que criar o que cada cliente passava para eles, e no fim esse cliente iria aprovar o trabalho.
 
-[CLIQUE AQUI PARA VER O DOCUMENTO]()
+[CLIQUE AQUI PARA VER O DOCUMENTO](Desenvolvimento_de_Sistemas/cargo_finder_documentaçao.pdf)
 [CLIQUE AQUI PARA VER O FIGMA](https://www.figma.com/file/QK9r1QppmWqWPOsrYyzaBS/Untitled?type=design&node-id=0%3A1&mode=design&t=IBTN3QpG22V2Efs2-1)
 
 * Programação de Aplicativo:
