@@ -108,7 +108,7 @@ A gente teve que criar um aplicativo com 5 telas e que seja possivel navegar ent
 
 * Autoria Mundo Senai:
   
-[CLIQUE AQUI PARA VER O FIGMA](https://youtu.be/SqBjbccJqE8?si=m2cT7IXk2BR-CSVm)
+[CLIQUE AQUI PARA VER O VÍDEO](https://youtu.be/SqBjbccJqE8?si=m2cT7IXk2BR-CSVm)
 
 
 
