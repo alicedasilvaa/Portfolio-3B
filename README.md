@@ -86,7 +86,17 @@ Nesse trabalho, eu, Lucas e Stefany fizemos juntos, e resolvemos falar sobre a v
 
 [CLIQUE AQUI SAFESPACE E FIGMA](Moldelagem-de-sistemas)
 
-
 [CLIQUE AQUI PARA VER O FIGMA](https://www.figma.com/proto/xGQ2b07PH55V1J8ABNRhud/Untitled?type=design&node-id=1-2&t=qmJhUXSs5Jv82duh-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
+
+##Atividade do 3° Trimestre
+
+* Desenvolvimento de Sistema:
+
+Nesse trabalho a Ana e o Danilo misturaram as turmas e fizeram vários grupos, e cada grupo teve que criar o que cada cliente passava para eles, e no fim esse cliente iria aprovar o trabalho.
+
+* Programação de Aplicativo:
+
+A gente teve que criar um aplicativo com 5 telas e que seja possivel navegar entre elas. (As telas que eu criei não consegui adicionar no github, so consegui adicionar um codigo aqui e entreguei o mesmo codigo no class)
+
 
   
